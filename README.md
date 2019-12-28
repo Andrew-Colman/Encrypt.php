@@ -13,7 +13,8 @@ $enc = new Encrypt();
 $enc = new App\Encrypt();
 ```
 >learn more about php psr-4 https://www.php-fig.org/psr/psr-4/ 
->autoload https://getcomposer.org/doc/01-basic-usage.md#autoloading
+
+>autoload https://getcomposer.org/doc/01-basic-usage.md#autoloading 
 
      
 ### call a function when required ###
