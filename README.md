@@ -12,7 +12,7 @@ php class with advanced encryption methods ( encrypt, decrypt, validate, sanitiz
         
 ### decrypt() example ###
 ```php
-    if($encrypt->decrypt($_POST["thePasswordInput"],$userPassInDB)){
+    if($enc->decrypt($_POST["thePasswordInput"],$userPassInDB)){
         //allow login
     }
     else{
